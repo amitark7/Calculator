@@ -1,0 +1,30 @@
+.calculator{
+    padding: 20px;
+    border: none;
+    background:transparent;
+    border-radius: 20px;
+    box-shadow: -1px -1px 10px 10px rgba(189,97,97,0.5);
+}
+.input{
+    width: 100%;
+    max-width: 400px;
+    color: #fff;
+    border: none;
+    background: transparent;
+    border-radius: 20px;
+    height: 100px;
+    text-align: center;
+   cursor: pointer;
+}
+button{
+    height: 80px;
+    width: 80px;
+    border: none;
+    margin: 10px;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50%;
+    background: transparent;
+    box-shadow: 6px 6px 10px rgba(190,97,97,1),
+    -6px -6px 10px rgba(190,97,97,1);
+}
